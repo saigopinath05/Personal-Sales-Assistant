@@ -1,4 +1,4 @@
-# Personal-Sales-Assistant
+# Nike Personal Sales Assistant
 Demo using Nike's products of how to use undetected-chromedriver, OpenAI, and Pinecone to create a personal sales assistant
 
 Many websites are now incorporating chatbots to answer user questions about their page and company. However, many ecommerce websites have yet to use chatbots to fulfill a sales representative role. This type of chatbot would be valuable to the company itself, as it would increase sales by persuading the customer to purchase items relevant to their query. Additionally, the chatbot would be useful to customers, who can directly get summarized information about extended product descriptions and reviews without having to individually click through several product pages to find the product(s) they are looking for.
