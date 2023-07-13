@@ -1,0 +1,15 @@
+# Space config
+.space
+
+# Docker config
+Dockerfile
+docker-compose.yml
+
+# Confidential env files
+.env
+constants.py
+
+# Misc
+__pycache__
+.DS_Store
+.idea
